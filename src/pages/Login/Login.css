@@ -1,0 +1,5 @@
+.login__container {
+    background-color: rgba(255, 255, 255, 0.199);
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px 1px rgba(255, 255, 255, 0.288);
+}

@@ -1,0 +1,12 @@
+.input__regular--style {
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    color: #fff;
+}
+
+.input-error {
+    border: 1px solid red;
+    color: red;
+    background: rosybrown;
+}
